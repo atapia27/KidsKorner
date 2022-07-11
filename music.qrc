@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>lionking.mp3</file>
+        <file>correctans.mp3</file>
+        <file>music.mp3</file>
+        <file>powerup.wav</file>
+        <file>Death.mp3</file>
+        <file>a4.mp3</file>
+        <file>a5.mp3</file>
+        <file>b4.mp3</file>
+        <file>b5.mp3</file>
+        <file>black0.mp3</file>
+        <file>black1.mp3</file>
+        <file>black2.mp3</file>
+        <file>black3.mp3</file>
+        <file>black4.mp3</file>
+        <file>black5.mp3</file>
+        <file>black6.mp3</file>
+        <file>black7.mp3</file>
+        <file>black8.mp3</file>
+        <file>g4.mp3</file>
+        <file>black9.mp3</file>
+        <file>c3.mp3</file>
+        <file>c4.mp3</file>
+        <file>d3.mp3</file>
+        <file>d4.mp3</file>
+        <file>e3.mp3</file>
+        <file>e4.mp3</file>
+        <file>f3.mp3</file>
+        <file>f4.mp3</file>
+        <file>g3.mp3</file>
+        <file>wrongans.mp3</file>
+        <file>LaserGun.mp3</file>
+        <file>LaserGun1.mp3</file>
+        <file>LaserGun2.mp3</file>
+        <file>LaserGun3.mp3</file>
+        <file>LaserSound.mp3</file>
+        <file>Lofi.mp3</file>
+    </qresource>
+</RCC>
